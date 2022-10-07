@@ -2,6 +2,7 @@
 ### keeping for update my new business ideas list
 
 - Business Consulting
+- Technology Consulting
 - IT support
 - Cleaning Services
 - Accounting and Tax Preparation
@@ -33,7 +34,7 @@
 - Dental Offices
 - Personal Training and Wellness
 - Warehouse and Storage
-- Handyman and Maintenance
+- Handyman
 - Property Management
 - Courier Services
 - Funeral Homes
@@ -60,3 +61,347 @@
 - Green app developer
 - Social crowdfunding
 - an educational travel company
+- Online reselling
+- Online bookkeeping
+- Medical courier service
+- Transcription service
+- Professional organizing
+- Home care service
+- Lawn care service
+- Rideshare driving
+- T-shirt printing 
+- Dropshipping
+- Pet sitting
+- Resume writing
+- Manufacturing Construction Supplies
+- Remote Notary
+- Landscaping Business
+- Tax Preparation
+- Photography Company
+- Web Development
+- Property Management
+- Gas Station Business
+- Financial Advisors
+- Event planner business
+- Subscription boxes business
+- Vending machine business
+- Office Space Rental
+- Affiliate Marketing
+- Data Analyst Consulting
+- Niche Website Owner
+- Security Services
+- Podcasting
+- Antique Refurbishment
+- WordPress Themes
+- Makeup Artist
+- Image Consultant
+- E-Magazine
+- Drone Videographer
+- Subscription Service Owner
+- Craft Beer Brewing
+- Espresso Cart
+- Gluten-Free Bakery
+- Organic Vending Machines
+- Guided Tours
+- Organic Food Catering
+- Organic Café
+- Custom Drone Builder
+- VR/AR Application Developer
+- IoT Service Provider
+- VR Arcade Owner
+- Indoor Drone Racing
+- Electric Charging Station Provider
+- Energy Auditor
+- 3D Printing Services
+- E-Bike Repair Services
+- SaaS Business Owner
+- Smart Home Contractor
+- Barbershop Owner
+- Dog Walker
+- Career Coaching
+- Personal Shopper
+- Mobile Laundry
+- Mobile Pet Grooming
+- Fitness Instructor
+- Anti-Aging Spa
+- Decluttering Services
+- Beard Care Products
+- Tattoo Studio
+- Pet Daycare
+- Pick & Drop Services
+- Solar Contractor
+- Sustainable Landscaping
+- Medical Application
+- Acupuncture Business
+- Mobile Hearing Aid Business
+- Woodworking Business
+- Online Dating Consultant
+- Clothing Boutique Owner
+- Specialty Food Store Owner
+- Garden Designer
+- Packing Services
+- Massage Business
+- Interior Design
+- Consignment Shop Owner
+- Coffee Shop Owner
+- Candy Shop
+- Youtuber
+- Ticket Reseller
+- Webinars
+- Buy And Sell Domains
+- User Testing
+- Antique Dealer
+- Market Stall
+- Equipment Rental
+- Franchisee
+- Catering
+- Business Development Service
+- Debt Collector Service
+- Lemonade Company
+- Removals Company
+- Flyering Agency
+- Printing Service
+- Furniture Refinishing
+- Market Research Service
+- PR (Public Relations) Services
+- Architect
+- Private Investigator
+- Martial Arts Instructor
+- Yoga Instructor
+- Dance Instructor
+- Dog Training
+- Body Piercing
+- Pool Cleaning
+- Virtual Store
+- Ice cream shop
+- Toy and Game store
+- Kitchen remodeling
+- Voice-over service
+- Email marketing services
+- Video editor
+- Bars
+- BBQ Restaurants 
+- wrecking services
+- Art instructor
+- Art gallery
+- Paint wall murals
+- Art dealer
+- Art broker
+- Auto parts sales
+- Beauty blogger
+- Nail salon
+- Eyebrow grooming and lash extensions
+- Beauty salon
+- Cosmetic sales
+- Apartment preparation service
+- Bicycle rental
+- Bicycle repair
+- Balloon decorating service
+- Boat excursions and tours
+- Boat, kayak, canoe and jet ski rentals
+- Boat maintenance and repair
+- Chemical testing
+- Child learning center
+- Collectibles dealer
+- Clown Service
+- Concert promotion business
+- Construction business
+- Employment agency
+- Environmental cleanup service
+- Errand service
+- Fence sales and installation
+- Fishing boat rides
+- Flea market seller
+- Formal wear rental service
+- Framing service
+- Furniture reupholstering
+- Genealogist
+- Home attendant service
+- Home design service
+- Home staging service
+- Inventory control service
+- Junk removal services
+- Limousine service
+- Loan consultant
+- Locksmith
+- Magician
+- Market research
+- Meal preparation service
+- Medical transcription
+- Miniature golf course
+- Nutritional supplement sales
+- Pest control service
+- Plumber
+- Plant care and watering services for businesses
+- Sports equipment sales and service
+- Stairlift business
+- Swimming pool business
+- Veterinarian
+- Data recovery service
+- Smartphone training
+- Software training
+- Agricultural consultant
+- Air quality consultant
+- Healthcare consultant
+- Hospital management consulting
+- Personnel management consulting
+- Product development consultant
+- Proposal consultant (government contracts)
+- Risk management consultant
+- Calligrapher
+- Candle making and sales
+- Handmade pottery
+- Handmade knitted goods
+- Knitting store
+- Leather belts and leather goods
+- Audio editing
+- Audiobook narrator
+- Book indexer
+- Subscription newsletter
+- Computer animation
+- Cartoonist
+- Ballet studio
+- Home entertainment theater installation
+- Entertainment services
+- Recording studio
+- Vintage store
+- a specialty food product
+- signature cookies
+- Gourmet jam production
+- International & Specialty Cooking Classes
+- Mini-market / convenience store
+- Wine bar
+- Import/export business
+- Plant nursery
+- Manufacturer
+- Bicycle sales
+- Chinese food restaurants
+- Delicatessen
+- Fishing supplies
+- Fish farm
+- Fish market
+- Gift basket business
+- Gift shop
+- Hat store
+- Janitorial supplies
+- Jewelry store
+- Lingerie store
+- Pizza parlor
+- Rare book dealer
+- Self-storage business
+- Shoe store
+- Smoothies / juice bar
+- Spice store
+- Rehabbing homes
+- Telemarketing service
+- Direct selling
+- Sales training
+- farmers markets
+- worm farming
+- mushrooms farming
+- Camping Trailer Storage
+- Industrial Storage
+- Boat Storage
+- Self-storage yard
+- Firewood business
+- Campground
+- Parks
+- Wind Farm or Solar Energy
+- Dirt Bike Track
+- Mountain Bike and Hiking Trails
+- Car Race and Drag strip
+- Drone racing events
+- Paintball Games
+- Hunting
+- Religious Revival events
+- Outdoor theatres & concerts
+- Music Festivals
+- Arts, Antiques and Crafts Fairs
+- Athletic Sports Events
+- Agritourism
+- Cross country skiing
+- Scavenger Hunts
+- Scouting events and jamborees
+- Christmas Tree farms
+- Tiny houses and mobile home rentals
+- Sod farm
+- Timber
+- Cell phone towers
+- Electrical substations
+- Access roads
+- Parking lots
+- Vineyard
+- Painting Outdoors
+- Animals Grazing
+- Raise Livestock 
+- Horse stable & equestrian center
+- Dairy farm
+- Dog breeding
+- Community gardens
+- Restaurant garden
+- Zipline attraction
+- Drive-in movie theatre
+- Event rentals
+- Beekeeping
+- Billboard advertising
+- Roadside attraction
+- Ice skating rink
+- Junkyard
+- Training grounds
+- Shooting range
+- Grow Microgreens
+- Organic Farm
+- Herb Farm
+- Lavender Farm
+- Tree and Shrub & Perennial Farming
+- Hemp Farm
+- Snail Farm
+- Goat farming
+- Sheep Farming
+- Rabbit Farm
+- Poultry Farming
+- Pet Breeding
+- Exotic Animal Farms
+- Butterfly Farm
+- Apple Picking (Pumpkin, Strawberry, etc)
+- Flower Fields
+- Corn Mazes
+- Petting Zoos
+- Dog & Cat Cafe
+- Farm Food Festival
+- Landscape architect
+- Planter Boxes
+- Gardening Education
+- Cactus arrangements
+- Wedding floral services
+- Floral subscription service
+- Aquaculture
+- Hydroponic Farms
+- Farm Business Consultant
+- Farm Supply & Distributor
+- Farm Equipment Dealer
+- Pickle Manufacture
+- Rubber Stamp Manufacturing
+- Herbal Remedy Production
+- Hand Tools Manufacturing
+- Toy Manufacturing
+- Vermicompost Production
+- Welding and Custom assembly manufacturing
+- Custom Computer Manufacturing
+- Ice Manufacturing
+- Coworking office space
+- Fitness facility
+- Beer Brewery
+- indoor climbing gym
+- Plant delivery service
+- Baby Product Development
+- Retail Baby Store
+- Baby Clothing Business
+- Baby Food Brand Development
+- Baby Food Subscription Service
+- Cloth Diaper Service
+- Kids Pre School Education
+
+
+## My Recommend Business development site
+- https://www.zenbusiness.com
