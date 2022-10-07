@@ -1,5 +1,62 @@
 # spk-business-ideas-list
-### keeping for update my new business ideas list4
+### keeping for update my new business ideas list
 
 - Business Consulting
-- 
+- IT support
+- Cleaning Services
+- Accounting and Tax Preparation
+- Auto Repair
+- Real Estate
+- Online courses
+- Marketing and PR Services
+- Website Design
+- Logo and Graphic Design Services
+- Social media management
+- Copywriting
+- Virtual assistant services
+- Tutoring Center
+- Catering services
+- Gardening & Landscaping
+- Delivery Services and Drivers
+- Freelancing
+- Language Translator
+- Self-Publishing Author
+- Blogging
+- App development
+- Food Trucks
+- Health Food Kitchen or Personal Chef
+- Travel Agency
+- Vacation Rentals
+- Child-Oriented Businesses
+- Health care services
+- Financial services
+- Dental Offices
+- Personal Training and Wellness
+- Warehouse and Storage
+- Handyman and Maintenance
+- Property Management
+- Courier Services
+- Funeral Homes
+- Pet Handling Service
+- Dash Cam Business
+- Florist
+- Party Services
+- Food trucks
+- Car wash services
+- Enrichment activities for children
+- Mobile apps and entertainment for children
+- Shared accessories and attire
+- Shared home improvement equipment
+- Vacation rentals
+- Electronics repair
+- Academics courses
+- Language courses
+- Business or marketing courses
+- Personal wellness
+- Graphic design
+- Creating chatbots
+- Online fundraising consultant
+- Educational blogging
+- Green app developer
+- Social crowdfunding
+- an educational travel company
