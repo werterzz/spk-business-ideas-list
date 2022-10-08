@@ -403,6 +403,16 @@
 - Kids Pre School Education
 - fried veggies food
 - Stranger facetime with question app
+- PVC recycling business
+- Construction and reliable waste recycling business
+- Medical Waste Recycling Business
+- Utensils recycle business
+- Glass Recycling business
+- Mattress Recycling business
+- Textile Recycling business
+- Junkyard Furniture recycling business
+- Electronic waste recycling business
+- Aluminium recycling business
 
 
 ## My Recommend Business development site
